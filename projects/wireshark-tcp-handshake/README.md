@@ -116,7 +116,7 @@ Wireshark provided a clear view of the packet exchange and helped explain how TC
 
 ### Packet Capture File
 
-[View TCP Packet Capture](evidence/tcp-handshake.pcapng)
+[Download TCP Packet Capture](evidence/tcp-handshake.pcapng)
 
 ## 6. Reflection and Improvements
 
