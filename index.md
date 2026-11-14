@@ -22,7 +22,7 @@ My career goal is to become a Cybersecurity Incident Responder. I hope to contin
 
 - **Linux (Working Knowledge):** Familiar with basic Linux commands, system administration, and command-line operations.
 - **Network Security (Working Knowledge):** Understanding of TCP/IP protocols, network reconnaissance, and common network security risks.
-- **Nmap (Working Knowledge):** Experience with host discovery, TCP port scanning, and service version detection. [View Nmap Project](projects/nmap-service-scan/).
+- **Nmap (Working Knowledge):** Experience with host discovery, TCP port scanning, and service version detection.
 - **Wireshark (Beginner):** Basic experience capturing and analysing network traffic.
 - **Python (Beginner):** Basic programming skills and experience with network security scripts.
 - **VMware Workstation (Working Knowledge):** Experience configuring virtual machines and isolated laboratory networks.
