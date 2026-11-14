@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python temp
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env and keys
+.env
+.env.*
+*.pem
+*.key
+
+# Jekyll generated
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
