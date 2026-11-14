@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Network Reconnaissance and Service Enumeration Using Nmap
 
 ## 1. Objective
