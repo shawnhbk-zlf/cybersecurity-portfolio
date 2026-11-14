@@ -6,7 +6,7 @@ This repository contains my cybersecurity portfolio, showcasing my technical ski
 
 [Visit My Cybersecurity Portfolio](https://shawnhbk-zlf.github.io/cybersecurity-portfolio/)
 
-## Featured Projects
+## Projects
 
 - Network Reconnaissance and Service Enumeration Using Nmap
 - TCP Three-Way Handshake Analysis Using Wireshark
