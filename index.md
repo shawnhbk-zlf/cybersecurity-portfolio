@@ -95,4 +95,4 @@ Through these steps, I hope to build a strong technical foundation and gradually
 
 - **GitHub**: [My GitHub Profile](https://github.com/shawnhbk-zlf)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/liangfengzhang/)
-- **Email**: [liangfengzhng@gmail.com](liangfengzhng@gmail.com)
+- **Email**: [liangfengzhng@gmail.com](mailto:liangfengzhng@gmail.com)
