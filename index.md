@@ -5,8 +5,6 @@ titles_from_headings:
   enabled: false
 ---
 
-# Cybersecurity Portfolio
-
 Welcome to my cybersecurity portfolio!
 
 ## 1. About Me
